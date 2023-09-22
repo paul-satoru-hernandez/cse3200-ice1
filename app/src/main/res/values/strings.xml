@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">robotpurchaseactivity</string>
+    <string name="button1_name">Reward A</string>
+    <string name="button2_name">Reward B</string>
+    <string name="button3_name">Reward C</string>
+    <string name="reward_1">1</string>
+    <string name="reward_2">2</string>
+    <string name="reward_3">3</string>
 </resources>
